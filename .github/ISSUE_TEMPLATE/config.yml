@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discussion
+    url: https://github.com/uec-walk/plan/discussions
+    about: 徒歩案以外はこちらにどうぞ
+  - name: 徒歩記事一覧
+    url: https://trpfrog.net/blog/tags/%E5%BE%92%E6%AD%A9
+    about: 過去の徒歩記事が気になる方はこちらまで
